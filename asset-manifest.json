@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/contact-react-app/static/css/main.d45a7ef4.css",
-    "main.js": "/contact-react-app/static/js/main.20df0536.js",
-    "static/js/787.c45cc61a.chunk.js": "/contact-react-app/static/js/787.c45cc61a.chunk.js",
-    "index.html": "/contact-react-app/index.html",
-    "main.d45a7ef4.css.map": "/contact-react-app/static/css/main.d45a7ef4.css.map",
-    "main.20df0536.js.map": "/contact-react-app/static/js/main.20df0536.js.map",
-    "787.c45cc61a.chunk.js.map": "/contact-react-app/static/js/787.c45cc61a.chunk.js.map"
+    "main.css": "/RanjeetKumar7b/contact-react-app.git/static/css/main.d45a7ef4.css",
+    "main.js": "/RanjeetKumar7b/contact-react-app.git/static/js/main.995483ad.js",
+    "static/js/787.c45cc61a.chunk.js": "/RanjeetKumar7b/contact-react-app.git/static/js/787.c45cc61a.chunk.js",
+    "index.html": "/RanjeetKumar7b/contact-react-app.git/index.html",
+    "main.d45a7ef4.css.map": "/RanjeetKumar7b/contact-react-app.git/static/css/main.d45a7ef4.css.map",
+    "main.995483ad.js.map": "/RanjeetKumar7b/contact-react-app.git/static/js/main.995483ad.js.map",
+    "787.c45cc61a.chunk.js.map": "/RanjeetKumar7b/contact-react-app.git/static/js/787.c45cc61a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d45a7ef4.css",
-    "static/js/main.20df0536.js"
+    "static/js/main.995483ad.js"
   ]
 }
